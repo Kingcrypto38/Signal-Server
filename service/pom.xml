@@ -11,7 +11,7 @@
   <artifactId>service</artifactId>
 
   <properties>
-    <firebase-admin.version>9.2.0</firebase-admin.version>
+    <firebase-admin.version>9.4.3</firebase-admin.version>
     <java-uuid-generator.version>4.3.0</java-uuid-generator.version>
     <sqlite4java.version>1.0.392</sqlite4java.version>
   </properties>
@@ -463,7 +463,7 @@
     <dependency>
       <groupId>com.apollographql.apollo3</groupId>
       <artifactId>apollo-api-jvm</artifactId>
-      <version>3.8.2</version>
+      <version>3.8.5</version>
 
       <exclusions>
         <exclusion>
